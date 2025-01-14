@@ -15,8 +15,7 @@ const cards = [
     { id: 4, label: 'Python' },
     { id: 5, label: 'Java' },
     { id: 6, label: 'Ruby' },
-    { id: 7, label: 'C++' },
-    { id: 8, label: 'C++' }
+
 ];
 
 // Shuffle cards

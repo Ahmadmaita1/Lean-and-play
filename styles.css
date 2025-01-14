@@ -76,7 +76,7 @@ ul li {
 /* Game Board */
 #game-board {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+    grid-template-columns: repeat(4, 1fr);
     gap: 1rem;
     margin: 2rem auto;
     max-width: 600px;
