@@ -5,6 +5,7 @@ body {
     background: #0d1117;
     color: #c9d1d9;
     line-height: 1.6;
+    height: 100vh;
 }
 
 header {
@@ -107,5 +108,7 @@ footer {
     padding: 1rem;
     background: #161b22;
     color: #c9d1d9;
-    margin-top: 2rem;
+    margin-top: 50px;
+    height:17vh;
+   
 }
